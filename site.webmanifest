@@ -1,0 +1,11 @@
+{
+  "name": "Eli's Original Steaks & Subs",
+  "short_name": "Eli's",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0b0b0c",
+  "theme_color": "#0b0b0c",
+  "icons": [
+    { "src": "/images/icon-192.png", "sizes": "192x192", "type": "image/png" }
+  ]
+}

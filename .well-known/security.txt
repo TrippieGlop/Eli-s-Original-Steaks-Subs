@@ -1,0 +1,4 @@
+Contact: mailto:elisoriginalsteakssubs@gmail.com
+Expires: 2027-11-05T00:00:00.000Z
+Preferred-Languages: en
+Canonical: https://elis-original-steaks-subs.vercel.app/.well-known/security.txt
